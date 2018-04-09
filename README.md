@@ -121,3 +121,6 @@ crl.globalsign.net
 hangouts.google.com
 plus.l.google.com
 isatap.lan
+pinpoll.com
+pinpoll.azureedge.net
+s.w.org
