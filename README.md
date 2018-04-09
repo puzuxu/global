@@ -114,3 +114,10 @@ ads-west-colo.adsymptotic.com
 geo3.ggpht.com
 showads33000.pubmatic.com
 spclient.wg.spotify.com
+
+e1723.dscd.akamaiedge.net
+officecdn.microsoft.com.edgesuite.net
+crl.globalsign.net
+hangouts.google.com
+plus.l.google.com
+isatap.lan
