@@ -62,6 +62,7 @@ video-ad-stats.googlesyndication.com
 weblb-wg.gslb.spotify.com
 www.googleadservices.com
 www.googletagservices.com
+
 www.omaze.com
 media-match.com
 adclick.g.doublecklick.net
@@ -124,3 +125,4 @@ isatap.lan
 pinpoll.com
 pinpoll.azureedge.net
 s.w.org
+s902.vshare.io
